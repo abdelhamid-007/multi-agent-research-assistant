@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-groq
+langchain-tavily
+python-dotenv
+pydantic
+reportlab
+streamlit
